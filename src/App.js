@@ -132,6 +132,61 @@ export default function App() {
           </div>
         </div>
       </div>
+      <footer>
+        <ul>
+          <li>
+            <a
+              href="https://neogcamp-portfolio-of-pritam.netlify.app/index.html"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i className="fas fa-globe-asia"></i>
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="https://github.com/pritam-kr/my-movies"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i className="fab fa-github"></i>
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="https://www.instagram.com/pritam_kr30/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i className="fab fa-instagram"></i>
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="https://www.linkedin.com/in/pritam-kumar-0ab3431bb/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i className="fab fa-linkedin-in"></i>
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="https://twitter.com/Pritamkr_"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <i className="fab fa-twitter"></i>
+            </a>
+          </li>
+        </ul>
+
+        <p>Code By Pritam Kumar</p>
+      </footer>
     </>
   );
 }
